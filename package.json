@@ -1,0 +1,22 @@
+{
+  "name": "wordle-game",
+  "version": "1.0.0",
+  "description": "An interactive Wordle clone built with HTML, CSS, JavaScript, and Tailwind CSS.",
+  "main": "script.js",
+  "scripts": {
+    "dev": "npx tailwindcss -i ./src/input.css -o ./style.css --watch"
+  },
+  "keywords": [
+    "wordle",
+    "game",
+    "html",
+    "css",
+    "javascript",
+    "tailwind"
+  ],
+  "author": "Vikrant Yadav",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.0.0"
+  }
+}
